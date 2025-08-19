@@ -38,7 +38,7 @@ src/
 - *Training:*  
   Run `src/train.py` to train the LSTM model.
 
-- **Evaluation:**  
+- *Evaluation:*  
   Run `src/evaluate.py` to evaluate model performance.
 
 - *Exploration:*  
